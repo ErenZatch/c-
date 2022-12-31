@@ -56,7 +56,7 @@ class book:public publication{
 void function(){
 	
 	siuuuuuuu;
-}
+}("to check for revert")
 
 int main(){
 	book b;
