@@ -55,6 +55,11 @@ class book:public publication{
 };
 #git trial...
 
+void function(){
+	
+	siuuuuuuu;
+}
+
 int main(){
 	book b;
 	b.getdata1();
